@@ -1,0 +1,13 @@
+github.com/bcchapman/weather-range-check v0.0.0-20230805150949-591a9bb03615 h1:5MnRGism4ZK738lwzegafec0zMeJGgtNv/+3lDn8UAQ=
+github.com/bcchapman/weather-range-check v0.0.0-20230805150949-591a9bb03615/go.mod h1:DKrRzfypge6eDuVxSYEHyyDG8linwghN60CidygjQLM=
+github.com/bcchapman/yeelight-client v0.0.0-20230806035814-d0c2fd42c2e7 h1:f+gcdqUjR1Q8xTE0dMqB/XpAHrJyf8VS2d+L9oRye3k=
+github.com/bcchapman/yeelight-client v0.0.0-20230806035814-d0c2fd42c2e7/go.mod h1:qNQyIITZD4RlbflHXVsY/gl/jV1hp/qbRbxROcb3bmw=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/google/go-cmp v0.5.8 h1:e6P7q2lk1O+qJJb4BtCQXlK8vWEO8V1ZeuEdJNOqZyg=
+github.com/lrosenman/ambient v1.0.4 h1:NcV6i8ceOec6eGtbRJIG8jDSXKRXqtvgLmMppwlZTMs=
+github.com/lrosenman/ambient v1.0.4/go.mod h1:SnHwJGuLGLbqrhw7RqyWRat564Y4SV1b2zb46hTrmSw=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/sethvargo/go-envconfig v0.9.0 h1:Q6FQ6hVEeTECULvkJZakq3dZMeBQ3JUpcKMfPQbKMDE=
+github.com/sethvargo/go-envconfig v0.9.0/go.mod h1:Iz1Gy1Sf3T64TQlJSvee81qDhf7YIlt8GMUX6yyNFs0=
+github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
